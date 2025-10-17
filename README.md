@@ -26,7 +26,7 @@ I created this project to practice the fundamentals of JavaScript and DOM manipu
 
 ## 📷 Screenshot
 
-![App Screenshot]() <!-- Replace with actual screenshot file name -->
+![App Screenshot](Capt a passenger counter app.PNG) <!-- Replace with actual screenshot file name -->
 
 ## 🛠️ Setup Instructions
 
