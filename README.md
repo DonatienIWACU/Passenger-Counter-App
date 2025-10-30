@@ -24,13 +24,7 @@ I created this project to practice the fundamentals of JavaScript and DOM manipu
 - CSS
 - JavaScript
 
-## 📷 Screenshot
+## 🖼️ Preview  
+[https://popcount.netlify.app/](https://popcount.netlify.app/)
 
-![App Screenshot](Capt a passenger counter app.PNG) <!-- Replace with actual screenshot file name -->
-
-## 🛠️ Setup Instructions
-
-1. Clone the repository:
-   ```bash
-git clone https://github.com/DonatienIWACU/passenger-counter-app.git
 
